@@ -44,10 +44,4 @@ Instructions:
 4. Run the cells sequentially. The code will automatically load the 
    corresponding CSV data file from the current directory to perform 
    the PINN training and generate the results.
-
-------------------------------------------------------------------------
-4. CONTACT
-------------------------------------------------------------------------
-For any inquiries regarding the code or data, please contact 
-Dr. Anxin Ding at axding@whut.edu.cn.
 ========================================================================
