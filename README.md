@@ -9,8 +9,6 @@ TITLE: A universal differential equation framework for decoupling non-equilibriu
 JOURNAL: Computational Materials Science
 MANUSCRIPT NO.: COMMAT-D-26-02130
 
-CORRESPONDING AUTHOR: Dr. Anxin Ding (axding@whut.edu.cn)
-
 ------------------------------------------------------------------------
 1. SOFTWARE & ENVIRONMENT
 ------------------------------------------------------------------------
